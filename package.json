@@ -1,0 +1,13 @@
+{
+  "name": "mongodb-fundamentals-assignment",
+  "version": "1.0.0",
+  "description": "MongoDB fundamentals assignment for PLP Bookstore",
+  "main": "queries.js",
+  "scripts": {
+    "start": "node queries.js",
+    "insert": "node insert_books.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.3.0"
+  }
+}
