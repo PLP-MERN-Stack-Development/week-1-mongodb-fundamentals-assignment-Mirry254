@@ -8,6 +8,17 @@
     "insert": "node insert_books.js"
   },
   "dependencies": {
-    "mongodb": "^6.3.0"
-  }
+    "mongodb": "^6.16.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLP-MERN-Stack-Development/week-1-mongodb-fundamentals-assignment-Mirry254.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PLP-MERN-Stack-Development/week-1-mongodb-fundamentals-assignment-Mirry254/issues"
+  },
+  "homepage": "https://github.com/PLP-MERN-Stack-Development/week-1-mongodb-fundamentals-assignment-Mirry254#readme"
 }
